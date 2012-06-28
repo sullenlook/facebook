@@ -1,0 +1,32 @@
+FACEBOOK PLUGIN IN DEUTSCH
+
+
+Sag einfach "Facebook" zum starten.
+
+
+Clone SiriServerWebAddons in Dein www Ordner.
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        https://github.com/cedbv/SiriServer-WebAddons.git
+
+
+Clone facebook in Dein plugins Ordner.
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        https://github.com/sullenlook/facebook.git
+
+
+Füge folgendes in plugins.conf:
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        facebook
+
+
+Füge folgendes in plugins.conf ein bearbeite es:
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        webaddons_path = "/var/www/SiriServerCore"
+        webaddons_url = "http://xxx/SiriServerCore"
+
+
+FERTIG
